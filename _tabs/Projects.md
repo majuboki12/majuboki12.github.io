@@ -1,5 +1,5 @@
 ---
 layout: projects
-icon: fa-duotone fa-shovel
+icon: fa fa-object-group
 order: 5
 ---
