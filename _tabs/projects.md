@@ -1,5 +1,5 @@
 ---
 layout: projects
-icon: fa fa-object-group
+icon: far fa-object-ungroup
 order: 5
 ---
