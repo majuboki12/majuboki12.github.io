@@ -19,12 +19,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: TEST Pages                      # the main title
+title: majuboki Blog                   # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Welcome...                    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://majuboki12.github.io'
@@ -33,7 +33,7 @@ github:
   username: majuboki12                  # change to your github username
 
 twitter:
-  username:                             # change to your twitter username
+  username: ''                          # change to your twitter username
 
 social:
   # Change to your full name.
