@@ -59,8 +59,3 @@ remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
 To github.com:majuboki12/majuboki12.github.io.git
    a5009b5..ecc9ce9  gh-pages -> gh-pages
 ```
-
-
-
-
- 
