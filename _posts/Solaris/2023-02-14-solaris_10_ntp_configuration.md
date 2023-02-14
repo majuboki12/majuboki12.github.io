@@ -35,7 +35,7 @@ server  216.239.35.4			# NTP 서버 time.google.com Secondary
 ```
 
 
-## 3. `NTP' 서비스 제시작 
+## 3. NTP 서비스 재시작 
 ```
 # svcadm disable svc:/network/ntp:default 
 ```
